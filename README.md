@@ -1,1 +1,3 @@
 # QTL-Analysis
+
+In This QTL Analyis, we studied the Wergedal 2006 dataset. The purpose for this study was to Identify QTL regions that help regulate femur mechanical properties, geometric properties, and BMD. The progenitor strains for this F2 inter-cross were between F1 NZB/B1NJ and RF/J mice. The total population size in this data are 661 female mice that were tested on after 10 weeks. The phenotypes in this study are Ftot, P, and Crt. Ftot represents total femur volumetric bone marrow density, P represents maximum (ultimate) load, and CrtThk represents the cortical thickness. N indicates the NZB/B1NJ allele, R indi- cates the RF/J allele, and H indicates that the mouse is heterozygous.
